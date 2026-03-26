@@ -1,0 +1,4 @@
+1:"$Sreact.fragment"
+2:I[39756,["/particle-geometry-renderer/_next/static/chunks/51cce0bcbdd90883.js","/particle-geometry-renderer/_next/static/chunks/ed1c8ed3ef6c69c2.js","/particle-geometry-renderer/_next/static/chunks/4392189f08a7af14.js"],"default"]
+3:I[37457,["/particle-geometry-renderer/_next/static/chunks/51cce0bcbdd90883.js","/particle-geometry-renderer/_next/static/chunks/ed1c8ed3ef6c69c2.js","/particle-geometry-renderer/_next/static/chunks/4392189f08a7af14.js"],"default"]
+0:{"buildId":"XGj88Dbsj0CCFc7a9uP3o","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}

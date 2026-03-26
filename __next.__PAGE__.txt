@@ -1,0 +1,9 @@
+1:"$Sreact.fragment"
+2:I[47257,["/particle-geometry-renderer/_next/static/chunks/4392189f08a7af14.js"],"ClientPageRoot"]
+3:I[52683,["/particle-geometry-renderer/_next/static/chunks/51cce0bcbdd90883.js","/particle-geometry-renderer/_next/static/chunks/ed1c8ed3ef6c69c2.js","/particle-geometry-renderer/_next/static/chunks/a4fc668075a3d85f.js"],"default"]
+6:I[97367,["/particle-geometry-renderer/_next/static/chunks/4392189f08a7af14.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+0:{"buildId":"XGj88Dbsj0CCFc7a9uP3o","rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/particle-geometry-renderer/_next/static/chunks/a4fc668075a3d85f.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
+4:{}
+5:"$0:rsc:props:children:0:props:serverProvidedParams:params"
+8:null
