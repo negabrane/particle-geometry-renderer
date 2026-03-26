@@ -2,7 +2,8 @@ import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
   output: "export",
-  /* config options here */
+  basePath: "/particle-geometry-renderer",
+  assetPrefix: "/particle-geometry-renderer/",
   typescript: {
     ignoreBuildErrors: true,
   },
